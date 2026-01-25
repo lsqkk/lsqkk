@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<img src="https://bili-card.lsqkk.space/api/card?uid=2105459088&color=blue"/>
+<img src="https://bili-card.lsqkk.space/api/card?uid=2105459088&color=dark"/>
 
 <h3>
 <details>
