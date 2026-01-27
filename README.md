@@ -19,11 +19,11 @@
 
 <img src="https://bili-card.lsqkk.space/api/card?uid=2105459088&color=dark"/>
 
-
-<details>
   <h3>
+<details>
+
   <summary>more</summary>
-  </h3>
+<p>
   - My name is Quark.
   
   - I am an undergraduate student in Automation at Xi'an Jiaotong University, Class of 2025.
@@ -33,6 +33,7 @@
   - I am also enthusiastic about new media technologies.
     
   - When it comes to anime, I exclusively follow *Detective Conan*. And for gaming, I primarily play *Phigros*.
-
+</p>
 </details>
+  </h3>
 
