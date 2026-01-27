@@ -6,6 +6,10 @@
 
 <img src="https://githubstatus.sdjz.wiki/api?username=lsqkk&border_radius=12&commits_year=2025&include_all_commits=true&rank_icon=github&ring_color=9b59b6" alt="GitHub Stats" />
 
+### Contribution Graph
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lsqkk&theme=github-compact&hide_border=true&area=true" />
+
 ### Contact
 You can find me on my website [Quark Blog](https://lsqkk.github.io) or my [Academic Homepage](https://lsqkk.github.io/academic-homepage).
 
