@@ -17,10 +17,6 @@
   </a>
 </p>
 
-
-
-
-<h3>
 <details>
   <summary style="font-size: inherit; font-weight: bold;">more</summary>
   <div style="font-size: 1rem; font-weight: normal; margin-top: 10px;">
