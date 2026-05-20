@@ -8,10 +8,13 @@
 ### Tech Stack
 
 **Languages**  
-![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,c,cpp,ruby,latex,markdown)
+![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,c,cpp,bash,ruby,latex,markdown)
 
 **Frameworks, Tools & Platforms**  
-![Tools](https://skillicons.dev/icons?i=nodejs,astro,flask,fastapi,threejs,vercel,cloudflare,firebase,linux,ps)
+![Tools](https://skillicons.dev/icons?i=nodejs,astro,flask,fastapi,threejs,vercel,cloudflare,firebase,linux,pytorch,tensorflow,git)
+
+**Others** 
+![Others](https://skillicons.dev/icons?i=ps,sketchup,arduino,autocad,matlab,vscode,ubuntu,mysql,docker,nginx,wordpress,php)
 
 ### GitHub Stats
 
