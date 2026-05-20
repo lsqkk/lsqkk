@@ -13,7 +13,7 @@
 **Frameworks, Tools & Platforms**  
 ![Tools](https://skillicons.dev/icons?i=nodejs,astro,flask,fastapi,threejs,vercel,cloudflare,firebase,linux,pytorch,tensorflow,git)
 
-**Others** 
+**Others**  
 ![Others](https://skillicons.dev/icons?i=ps,sketchup,arduino,autocad,matlab,vscode,ubuntu,mysql,docker,nginx,wordpress,php)
 
 ### GitHub Stats
