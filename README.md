@@ -8,21 +8,14 @@
 ### Tech Stack
 
 **Languages**  
-![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,c,cpp,bash,ruby,latex,markdown)
+![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,c,cpp,bash,latex,markdown)
 
 **Frameworks, Tools & Platforms**  
-![Tools](https://skillicons.dev/icons?i=nodejs,astro,flask,fastapi,threejs,vercel,cloudflare,firebase,linux,pytorch,tensorflow,git)
+![Tools](https://skillicons.dev/icons?i=nodejs,astro,threejs,vercel,firebase,linux,pytorch,tensorflow,git)
 
 **Others**  
 ![Others](https://skillicons.dev/icons?i=ps,sketchup,arduino,autocad,matlab,vscode,ubuntu,mysql,docker,nginx,wordpress,php)
 
-### GitHub Stats
-
-<img src="https://githubstatus.sdjz.wiki/api?username=lsqkk&border_radius=12&commits_year=2025&include_all_commits=true&rank_icon=github&ring_color=9b59b6" alt="GitHub Stats" />
-
-### Contribution Graph
-
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lsqkk&theme=github-compact&hide_border=true&area=true" />
 
 ### Contact
 You can find me on my website [Quark Blog](https://lsqkk.github.io), my [Gallery](https://130923.xyz) or my [Academic Homepage](https://lsqkk.github.io/academic-homepage).
@@ -36,11 +29,3 @@ You can find me on my website [Quark Blog](https://lsqkk.github.io), my [Gallery
 <img src="https://bili-card.130923.xyz/api/card?uid=2105459088&color=dark" style="width: 600px;"/>
 
 </details>
-
-###
-
-<div  align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Quark&fontSize=40&fontColor=999999&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
